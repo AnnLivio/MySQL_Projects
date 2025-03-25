@@ -1,7 +1,6 @@
 # Netflix Movies & Shows
 
-### **Dataset**: 
-`https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data`
+### **Dataset** [netflix-movies-and-tv-shows](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data)
 
 ---
 
